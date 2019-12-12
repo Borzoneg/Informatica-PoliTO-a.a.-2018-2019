@@ -1,0 +1,3 @@
+C:/Users/borzo/Documents/Programmazione/C/PoliTO a.a 2018-2019/Laboratori/Lab 8/Lab8 Es 5/cmake-build-debug/CMakeFiles/Lab8_Es_5.dir
+C:/Users/borzo/Documents/Programmazione/C/PoliTO a.a 2018-2019/Laboratori/Lab 8/Lab8 Es 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/borzo/Documents/Programmazione/C/PoliTO a.a 2018-2019/Laboratori/Lab 8/Lab8 Es 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

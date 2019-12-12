@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543842995 source:c:\users\borzo\documents\programmazione\c\polito a.a 2018-2019\laboratori\lab 6\lab 6 es 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

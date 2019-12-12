@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/borzo/Documents/Programmazione/C/PoliTO a.a 2018-2019/Laboratori/Lab 8/Lab 8 Es 4/main.c
+stdio.h
+-
+ctype.h
+-
+

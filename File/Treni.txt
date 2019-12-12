@@ -1,0 +1,6 @@
+bologna 12 12 otranto 13 13
+imperia 12 23 aurigo 14 54
+torino 23 34 pontedassio 13 45
+bologna 13 43 otranto 13 13
+cagliari 12 12 bologna 13 45
+mosca 12 12 bologna 15 13
